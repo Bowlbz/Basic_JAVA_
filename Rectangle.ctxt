@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rectangle\ here.\n\ This\ Class\ will\ produce\ the\ AREA\ of\ Rectangle\ ****\n\ @author\ David\ Jason\ Bowlby\n\ @version\ December\ 9,\ 2019\n
+comment1.params=width\ length
+comment1.target=Rectangle(double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Rectangle\n
+comment2.params=newWidth
+comment2.target=void\ setWidth(double)
+comment3.params=
+comment3.target=double\ getWidth()
+comment4.params=newLength
+comment4.target=void\ setLength(double)
+comment5.params=
+comment5.target=double\ getLength()
+comment6.params=width\ length
+comment6.target=double\ area(double,\ double)
+numComments=7
